@@ -35,10 +35,6 @@ Tkinter comes pre-installed with most Python distributions. If not, install it v
 
 - Windows/Mac: Usually included by default
 
-
----
-
-
 ## 🚀 Usage
 Run the script using Python:
 
@@ -59,7 +55,7 @@ This will launch a simple window where you can select an image file. The applica
 - Tkinter
 
 
-  ---
+
 
 ## 🧪 Sample Code ('main.py')
 
