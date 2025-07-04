@@ -35,10 +35,12 @@ Tkinter comes pre-installed with most Python distributions. If not, install it v
 
 - Windows/Mac: Usually included by default
 
+  ---
+
 ## 🚀 Usage
 Run the script using Python:
 
-```python steganography_detector.py
+```python steganography_detector.py```
 
 This will launch a simple window where you can select an image file. The application will then analyze the image and display whether hidden data is potentially present.
 
@@ -55,7 +57,7 @@ This will launch a simple window where you can select an image file. The applica
 - Tkinter
 
 
-
+---
 
 ## 🧪 Sample Code ('main.py')
 
