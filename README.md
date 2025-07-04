@@ -23,14 +23,7 @@ The tool converts the selected image to grayscale and examines the distribution 
 ---
 
 ## 🛠️ Installation
-1.Clone the repository
-
-```git clone https://github.com/Omm1452/steganography-detector.git
-cd steganography-detector```
-
----
-
-2.Install the required packages
+1.Install the required packages
 
 You can use pip:
 
@@ -49,17 +42,9 @@ Tkinter comes pre-installed with most Python distributions. If not, install it v
 ## 🚀 Usage
 Run the script using Python:
 
-```python steganography_detector.py```
+```python steganography_detector.py
 
 This will launch a simple window where you can select an image file. The application will then analyze the image and display whether hidden data is potentially present.
-
----
-
-## 📂 File Structure
-
-```steganography_detector.py     # Main script with GUI and detection logic
-README.md                     # Project documentation
-```
 
 ---
 
@@ -74,13 +59,7 @@ README.md                     # Project documentation
 - Tkinter
 
 
-  ## 🧪 Example
-When analyzing an image, you may get results such as:
-
-- Potential hidden data detected in the image!
-
-- No hidden data detected in the image.
-
+  ---
 
 ## 🧪 Sample Code ('main.py')
 
@@ -154,3 +133,16 @@ def create_gui():
 if __name__ == "__main__":
     create_gui()
 ```
+
+---
+
+
+## 🧪 Example
+When analyzing an image, you may get results such as:
+
+- Potential hidden data detected in the image!
+
+- No hidden data detected in the image.
+
+  
+---
